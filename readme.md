@@ -17,7 +17,7 @@ This web app allows users to analyze the sentiment of English sentences using a 
 - PyTorch
 
 ### Input
-![Input Screenshot](images/img1(2).png)
+![Input Screenshot](images/img1.png)
 
 ### Result
-![Result Screenshot](images/img2(2).png)
+![Result Screenshot](images/img2.png)
