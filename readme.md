@@ -15,3 +15,9 @@ This web app allows users to analyze the sentiment of English sentences using a 
 - Streamlit
 - Hugging Face Transformers
 - PyTorch
+
+### Input
+![Input Screenshot](images/img1(2).png)
+
+### Result
+![Result Screenshot](images/img2(2).png)
